@@ -1,0 +1,21 @@
+{
+	"name": "raginidemo1",
+	"properties": {
+		"globalParameters": {
+			"email_recepient": {
+				"type": "string",
+				"value": "databricks.ragini@gmail.com"
+			}
+		},
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "83e36dcd-f11e-4e0f-a411-350c46617a5c",
+		"tenantId": "ffda626f-bf26-42c2-adf9-375a8240ada5"
+	}
+}
