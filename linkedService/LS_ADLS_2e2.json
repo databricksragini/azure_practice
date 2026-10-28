@@ -1,0 +1,10 @@
+{
+	"name": "LS_ADLS_2e2",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://databricks2e2.dfs.core.windows.net/"
+		}
+	}
+}
